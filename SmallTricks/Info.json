@@ -1,0 +1,13 @@
+{
+	"Id": "SmallTricks",
+	"DisplayName": "SmallTricks",
+	"Author": "Perunq",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.3",
+	"Requirements": [],
+	"AssemblyName": "SmallTricks.dll",
+	"EntryMethod": "SmallTricks.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Perunq/SmallTricks/main/SmallTricks/Repository.json",
+	"HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/##"
+}
+
